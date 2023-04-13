@@ -1,0 +1,5 @@
+CodigoCliente,Nome,CPF_CNPJ,DataNascimento,Observacao
+1,Leonardo,45678912355,26/01/1998,observação do cliente Nº 1
+2,Bruno,78945612310,28/02/1995,observação do cliente Nº 2
+3,Pedro,95135784265,15/07/1998,observação do cliente Nº 3
+4,Luis,78945612335,11/04/2023,teste
